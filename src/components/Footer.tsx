@@ -27,7 +27,7 @@ const Footer = () => {
           <div>
             <h3 className="text-white font-bold mb-4">Brands</h3>
             <ul className="space-y-2 text-gray-400">
-              <li><a href="#" className="hover:text-white">GrandDiary</a></li>
+              <li><a href="#" className="hover:text-white">Ponnusamy Hotel</a></li>
               <li><a href="#" className="hover:text-white">CHEAP&BEST</a></li>
               <li><a href="#" className="hover:text-white">SultanBox</a></li>
             </ul>
