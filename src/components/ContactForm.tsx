@@ -23,9 +23,9 @@ const ContactForm = () => {
                 <p className="text-gray-600">[City, State, ZIP Code]</p>
               </div>
               <div>
-                <h3 className="font-bold text-black mb-2">Feel Free to Contact Us</h3>
-                <p className="text-gray-600">+91 8765411671</p>
-                <p className="text-gray-600">sprglobal@gmail.com</p>
+                <h3 className="font-bold text-black mb-2">Website created by</h3>
+                <p className="text-gray-600">Dharanesh B M</p>
+                <p className="text-gray-600">https://www.linkedin.com/in/dharanesh-b-m/</p>
               </div>
             </div>
           </div>
